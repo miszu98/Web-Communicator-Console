@@ -1,4 +1,3 @@
-package com.Zajecia.Lab5.WebCommunicator_5_5_i_5_6;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
