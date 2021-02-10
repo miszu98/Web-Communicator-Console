@@ -5,7 +5,7 @@
 1. [Server](#server-side)
 2. [Client](#client-1)
 
-## Technologies and Dependecies
+## Technologies
 * JAVA language
 
 ## Images 
