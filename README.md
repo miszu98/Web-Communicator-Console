@@ -1,5 +1,4 @@
 # Web Communicator Console
-### Own implementation of real world apps
 
 ## Application structure
 1. [Server](#server-side)
